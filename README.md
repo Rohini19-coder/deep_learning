@@ -62,8 +62,6 @@ python qr_code_scanner.py
 
 ---
 
-
-
 ---
 
 ## ✨ Author
