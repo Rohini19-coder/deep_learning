@@ -47,7 +47,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/Rohini19-coder/deep_learning.git
-cd deep-learning
+cd deep_learning
 ```
 
 Run any script:
