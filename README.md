@@ -63,10 +63,3 @@ python QRcode_scanner.py
 ---
 
 ---
-
-## ✨ Author
-
-Developed by **[Gaddam Rohini]** as part of deep learning and computer vision practice.
-
-```
-```
