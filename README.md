@@ -57,7 +57,7 @@ python color_detection.py
 python face_detection.py
 python edge_detection.py
 python object_tracking.py
-python qr_code_scanner.py
+python QRcode_scanner.py
 ```
 
 ---
@@ -70,4 +70,3 @@ Developed by **[Gaddam Rohini]** as part of deep learning and computer vision pr
 
 ```
 ```
-
