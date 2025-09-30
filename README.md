@@ -46,7 +46,7 @@ pip install opencv-python numpy
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/deep-learning.git
+git clone https://github.com/Rohini19-coder/deep_learning.git
 cd deep-learning
 ```
 
